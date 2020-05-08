@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "UIC Quad",
+    "summary": "Heart of UIC East Campus",
+    "description": "This is the center of UIC East Campus and home to many events.",
+    "location": {
+      "lat": 41.871900,
+      "lon": -87.649253
+    }
+  },
+  {
+    "id": 1,
+    "name": "James Turrell Skyspace",
+    "summary": "Gateway to the sky",
+    "description": "This is part of the artists James Turrell's work. It is a freestanding structure that has an opening at the top that lets patrons view the sky.",
+    "location": {
+      "lat": 41.8664324,
+      "lon": -87.6474333
+    }
+  },
+  {
+    "id": 2,
+    "name": "Richard J. Daley Library",
+    "summary": "East Campus Library",
+    "description": "This is one of the Libraries at UIC that was named for a former Chicago mayor.",
+    "location": {
+      "lat": 41.871923,
+      "lon": -87.650483
+    }
+  }
+]
