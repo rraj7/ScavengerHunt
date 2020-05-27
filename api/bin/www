@@ -1,0 +1,11 @@
+require("dotenv").config();
+
+const app = require("../index.js");
+
+process.on("SIGINT", () => {
+  console.log("\nApplication shutting down...");
+  process.exit(0);
+});
+
+app.listen(process.env.PORT, () => console.log("Listening on port:", process.env.PORT));
+
